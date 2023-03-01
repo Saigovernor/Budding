@@ -30,6 +30,19 @@ Visualization of this data was done using Tableau. Visualizations were made for 
 - average temperature for bigfoot sightings, 
 - visibity and Ultraviolet (UV) Index charts, 
 - average windspeed, and 
-- avergae humidity  
+- avergae humidity 
+--- 
 These metrics were used to form a dashboard which can be interacted with on [Tableau](https://public.tableau.com/views/DataDNAFebruaryVisualizationChallenge/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link "Bigfoot dashboard")  
+
+![Dashboard  (1)](https://user-images.githubusercontent.com/118802056/222286629-cdb9171d-baaf-4832-877d-fc8fdfbdf170.png)
+
+## Observations and Conclusion
+- Contrary to widely held opinons, Bigfoots are usually sighted more during the Summer months 
+- Bigfoots were sighted lots of times when the UV Index is between 4-6 (this indicates daytime) and very high visibiilty of more than 7 miles. 
+- The average daily high temperature of around 66.80F indicates that you are likely to see a bigfoot around fall or summer when this average daily high is prevalent. 
+- Moderate wind speeds of around 3.844mph also increase your chances of seeing a Bigfoot. 
+- Most observations in this dataset were reported as Class A, so the veracity of the information gotten from this dataset can be trusted.   
+  
+To observe a bigfoot, you should be on the lookout for conditions highlighted above and you just _might_ see one! 
+
 
