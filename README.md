@@ -30,7 +30,7 @@ Visualization of this data was done using Tableau. Visualizations were made for 
 - average temperature for bigfoot sightings, 
 - visibity and Ultraviolet (UV) Index charts, 
 - average windspeed, and 
-- avergae humidity 
+- average humidity 
 --- 
 These metrics were used to form a dashboard which can be interacted with on [Tableau](https://public.tableau.com/views/DataDNAFebruaryVisualizationChallenge/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link "Bigfoot dashboard")  
 
@@ -43,6 +43,6 @@ These metrics were used to form a dashboard which can be interacted with on [Tab
 - Moderate wind speeds of around 3.844mph also increase your chances of seeing a Bigfoot. 
 - Most observations in this dataset were reported as Class A, so the veracity of the information gotten from this dataset can be trusted.   
   
-To observe a bigfoot, you should be on the lookout for conditions highlighted above and you just _might_ see one! 
+To observe a bigfoot, you should be on the lookout for conditions similiar to those highlighted above and you just _might_ see one! 
 
 
